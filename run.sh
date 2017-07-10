@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Hai
+Hai hw r u
 
 chmod 400 /home/ubuntu/jenkins/tomcattest.pem
 
