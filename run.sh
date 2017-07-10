@@ -1,5 +1,7 @@
 #!/bin/bash
 
+Hai
+
 chmod 400 /home/ubuntu/jenkins/tomcattest.pem
 
 ssh -i /home/ubuntu/jenkins/tomcattest.pem ubuntu@34.227.76.107
